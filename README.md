@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Dans's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielmabbett&theme=light&show_icons=true&count_private=true)
+![Dans's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielmabbett&theme=light&show_icons=true&count_private=true)
 
 <!--
 **DanielMabbett/danielmabbett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
