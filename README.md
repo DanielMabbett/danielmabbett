@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+[LinkedIn](https://uk.linkedin.com/in/daniel-mabbett-6364aa108)
+
 ![Dans's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielmabbett&theme=light&show_icons=true&count_private=true)
 
 <!--
