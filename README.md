@@ -1,6 +1,16 @@
-### Hi there 👋
+### Welcome to my profile! 👋
 
-[LinkedIn](https://uk.linkedin.com/in/daniel-mabbett-6364aa108)
+I am a DevOps engineer with a keen interest in Azure, Terraform and Kubernetes. 
+
+My favourite programming language is Golang.
+
+My favourite scripting language is PowerShell.
+
+I enjoy problem solving. ⚡⚡
+
+> If something is getting repititive, something is not right. 
+
+You can follow me on [LinkedIn](https://uk.linkedin.com/in/daniel-mabbett-6364aa108)
 
 ![Dans's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielmabbett&theme=light&show_icons=true&count_private=true)
 
