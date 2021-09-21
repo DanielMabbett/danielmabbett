@@ -8,7 +8,7 @@ My favourite scripting language is PowerShell.
 
 I enjoy problem solving. ⚡⚡
 
-> If something is getting repititive, something is not right. 
+> If something is getting repetitive, something is not right. 
 
 You can follow me on [LinkedIn](https://uk.linkedin.com/in/daniel-mabbett-6364aa108)
 
