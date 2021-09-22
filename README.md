@@ -12,7 +12,7 @@ I enjoy problem solving. ⚡⚡
 
 You can follow me on [LinkedIn](https://uk.linkedin.com/in/daniel-mabbett-6364aa108)
 
-![Dans's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielmabbett&theme=light&show_icons=true&count_private=true)
+![Dans's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielmabbett&theme=dark&show_icons=true&count_private=true)
 
 <!--
 **DanielMabbett/danielmabbett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
